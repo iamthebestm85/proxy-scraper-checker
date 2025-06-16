@@ -19,11 +19,7 @@ pip install -r requirements.txt
 RUN 
 ```bash 
 python proxy_scraper.py
-``` 
-than 
-
-```bash 
-proxy_checker.py
+python proxy_checker.py
 ```
 
 
