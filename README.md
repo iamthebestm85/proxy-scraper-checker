@@ -15,3 +15,15 @@ A Simple Proxy Scraper and Checker , ALl Protocols
 - Install the required dependencies using: 
 ```bash
 pip install -r requirements.txt
+```
+RUN 
+```bash 
+python proxy_scraper.py
+``` 
+than 
+
+```bash 
+proxy_checker.py
+```
+
+
