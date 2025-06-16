@@ -11,7 +11,7 @@ A Simple Proxy Scraper and Checker , ALl Protocols
 
 
 # INSTALLATION 
-- LATEST PYTHON 
+- use latest python
 - Install the required dependencies using: 
 ```bash
 pip install -r requirements.txt
